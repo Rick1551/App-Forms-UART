@@ -1,0 +1,10 @@
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\bin\Debug\ControlLedApp2.exe.config
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\bin\Debug\ControlLedApp2.exe
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\bin\Debug\ControlLedApp2.pdb
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.csproj.AssemblyReference.cache
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.Form1.resources
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.Properties.Resources.resources
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.csproj.GenerateResource.cache
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.exe
+C:\Users\ricar\Documents\C#\ControlLedApp2\ControlLedApp2\obj\Debug\ControlLedApp2.pdb
